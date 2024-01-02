@@ -1,4 +1,4 @@
-________________![MasterHead](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif) _______________       
+![MasterHead](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)        
 <h1 align="center">Welcome 👋, I'm Shahman Ali</h1>
 <h3 align="center">Sophomore Computer Science+AI student at HKUST!</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
